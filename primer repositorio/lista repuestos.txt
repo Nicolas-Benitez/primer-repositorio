@@ -1,3 +1,6 @@
 correa distribucion
 bomba de agua
 bomba de freno
+bomba hidraulica
+bujias
+sonda lamda
