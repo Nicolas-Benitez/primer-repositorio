@@ -1,0 +1,29 @@
+.img{
+    width: 400px;
+    height: 400px;
+    box-shadow: 26px 23px 50px 14px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 26px 23px 50px 14px rgba(0,0,0,0.75);
+    -moz-box-shadow: 26px 23px 50px 14px rgba(0,0,0,0.75);
+}
+p{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+h1{
+    text-shadow: 6px 4px 7px rgba(95,68,68,0.39);
+    font-family: Arial;
+    text-align: center;
+}
+.caja{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    border-radius: 195px 195px 195px 195px;
+-webkit-border-radius: 195px 195px 195px 195px;
+-moz-border-radius: 195px 195px 195px 195px;
+border: 6px solid #5076ff;
+}
+.destacados{
+    color: blue;
+    font-style: italic;
+}
